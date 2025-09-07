@@ -47,6 +47,9 @@ This will launch a local web app in your browser (default: http://localhost:8501
 ### 📊 Model Overview
 ```
 Algorithm: Decision Tree Classifier 🌳
+```
+![App Screenshot](dt1.png)
+```
 Libraries Used: Scikit-Learn, Pandas, Matplotlib, Streamlit
 Dataset: Renewable Energy Adoption dataset (Renewable_Energy_Adoption.csv)
 Decision Tree Visualization:
@@ -64,16 +67,10 @@ Interactive web interface with Streamlit
 Predict renewable energy adoption based on inputs
 Visualize the decision tree
 Easy-to-deploy ML model (.pkl file included)
-
-🤝 Contributing
-
-Pull requests are welcome!
-If you find any issues, feel free to open an Issue or submit a PR.
-
-📜 License
-
-This project is licensed under the MIT License – free to use and modify.
-
-✨ Developed with ❤️ using Python, Scikit-Learn & Streamlit
 ```
+## 🖼️ Screenshot
+Here is how the app looks when running:
+
+![App Screenshot](SS.png)
+
 
